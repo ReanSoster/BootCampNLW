@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é app para ajudar a monitar os hábitos do seu dia a dia.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://reansoster.github.io/BootCampNLW/)
 
 ## :memo: Licença
 
